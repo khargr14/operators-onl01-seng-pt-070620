@@ -8,8 +8,7 @@ def unsafe?(79)
 	else
 		false
 	end
-  
- 
+end
 
 
 
