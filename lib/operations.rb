@@ -2,7 +2,7 @@
 
 
 	
-def unsafe?(79)
+def unsafe?()
 	if speed < 40 || speed > 60
 		true
 	else
